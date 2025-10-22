@@ -165,9 +165,10 @@ shoe-laundry-api/
 ```
 ⚙️ Instalasi & Menjalankan Secara Lokal
 1️⃣ Clone Repository
+```
 git clone https://github.com/batisszz/shoes-laundry-rest-api.git
 cd shoes-laundry-api
-
+```
 2️⃣ Install Dependencies
 npm install
 
@@ -196,3 +197,6 @@ SUPABASE_URL=https://imzbdqwqmhvvfrcwhnwy.supabase.co
 SUPABASE_SERVICE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImltemJkcXdxbWh2dmZyY3dobnd5Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2MDk5NjYxOCwiZXhwIjoyMDc2NTcyNjE4fQ.uN_z1dsjXUQpBzwg1NF-aerXEr4hjB5DjAWLtXOU_cw
 ```
 5. Klik Deploy 🚀
+```
+https://shoes-laundry-rest-api.vercel.app/
+```
